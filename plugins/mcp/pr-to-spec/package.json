@@ -47,10 +47,10 @@
     "node": ">=20.0.0"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.27.1",
+    "@modelcontextprotocol/sdk": "^1.26.0",
     "@octokit/rest": "^21.1.1",
     "commander": "^13.1.0",
-    "yaml": "^2.7.0",
+    "yaml": "^2.8.3",
     "zod": "^3.24.2"
   },
   "devDependencies": {
